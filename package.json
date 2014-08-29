@@ -1,6 +1,6 @@
 {
   "name": "appInfo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "hapi plugin for getting app info",
   "main": "index.js",
   "scripts": {
